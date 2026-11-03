@@ -2,7 +2,8 @@
 
 <p align="center">
   <b>Software developer from Colombia.</b><br>
-  I build private-by-design software that solves real problems: computer vision, accessibility, health and inventory systems.
+  I build private-by-design software that solves real problems: computer vision, accessibility, health and inventory systems.<br>
+  🌐 <a href="https://sergiopon.com"><b>sergiopon.com</b></a>: see all my projects, explained one by one.
 </p>
 
 <p align="center">
